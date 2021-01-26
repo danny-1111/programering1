@@ -83,6 +83,7 @@ namespace Uppgifter02_02
         private System.Windows.Forms.Button btnVänster;
         private System.Windows.Forms.Button btnHöger;
         private System.Windows.Forms.Label lblFlytta;
+        // Test
     }
 }
 
