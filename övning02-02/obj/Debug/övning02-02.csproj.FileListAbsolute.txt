@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\MinaProjekt\övning02-02\obj\Debug\övning02-02.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\MinaProjekt\övning02-02\obj\Debug\övning02_02.Form1.resources
+C:\Users\ASUS\source\repos\MinaProjekt\övning02-02\obj\Debug\övning02_02.Properties.Resources.resources
+C:\Users\ASUS\source\repos\MinaProjekt\övning02-02\obj\Debug\övning02-02.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\MinaProjekt\övning02-02\obj\Debug\övning02-02.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MinaProjekt\övning02-02\bin\Debug\övning02-02.exe.config
+C:\Users\ASUS\source\repos\MinaProjekt\övning02-02\bin\Debug\övning02-02.exe
+C:\Users\ASUS\source\repos\MinaProjekt\övning02-02\bin\Debug\övning02-02.pdb
+C:\Users\ASUS\source\repos\MinaProjekt\övning02-02\obj\Debug\övning02-02.exe
+C:\Users\ASUS\source\repos\MinaProjekt\övning02-02\obj\Debug\övning02-02.pdb

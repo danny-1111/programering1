@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\MinaProjekt\Exempel102-02\bin\Debug\Exempel102-02.exe.config
+C:\Users\ASUS\source\repos\MinaProjekt\Exempel102-02\bin\Debug\Exempel102-02.exe
+C:\Users\ASUS\source\repos\MinaProjekt\Exempel102-02\bin\Debug\Exempel102-02.pdb
+C:\Users\ASUS\source\repos\MinaProjekt\Exempel102-02\obj\Debug\Exempel102_02.Form1.resources
+C:\Users\ASUS\source\repos\MinaProjekt\Exempel102-02\obj\Debug\Exempel102_02.Properties.Resources.resources
+C:\Users\ASUS\source\repos\MinaProjekt\Exempel102-02\obj\Debug\Exempel102-02.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\MinaProjekt\Exempel102-02\obj\Debug\Exempel102-02.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MinaProjekt\Exempel102-02\obj\Debug\Exempel102-02.exe
+C:\Users\ASUS\source\repos\MinaProjekt\Exempel102-02\obj\Debug\Exempel102-02.pdb
