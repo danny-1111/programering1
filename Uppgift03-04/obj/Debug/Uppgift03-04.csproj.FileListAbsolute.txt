@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Uppgift03-04\bin\Debug\Uppgift03-04.exe.config
+C:\Users\ASUS\source\repos\Uppgift03-04\bin\Debug\Uppgift03-04.exe
+C:\Users\ASUS\source\repos\Uppgift03-04\bin\Debug\Uppgift03-04.pdb
+C:\Users\ASUS\source\repos\Uppgift03-04\obj\Debug\Uppgift03-04.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Uppgift03-04\obj\Debug\Uppgift03_04.Form1.resources
+C:\Users\ASUS\source\repos\Uppgift03-04\obj\Debug\Uppgift03_04.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Uppgift03-04\obj\Debug\Uppgift03-04.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Uppgift03-04\obj\Debug\Uppgift03-04.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Uppgift03-04\obj\Debug\Uppgift03-04.exe
+C:\Users\ASUS\source\repos\Uppgift03-04\obj\Debug\Uppgift03-04.pdb
