@@ -8,3 +8,13 @@ C:\Users\ASUS\source\repos\MinaProjekt\Uppgifter02-02\obj\Debug\Uppgifter02-02.c
 C:\Users\ASUS\source\repos\MinaProjekt\Uppgifter02-02\obj\Debug\Uppgifter02-02.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\source\repos\MinaProjekt\Uppgifter02-02\obj\Debug\Uppgifter02-02.exe
 C:\Users\ASUS\source\repos\MinaProjekt\Uppgifter02-02\obj\Debug\Uppgifter02-02.pdb
+C:\Users\ASUS\Source\Repos\programering1\Uppgifter02-02\bin\Debug\Uppgifter02-02.exe.config
+C:\Users\ASUS\Source\Repos\programering1\Uppgifter02-02\bin\Debug\Uppgifter02-02.exe
+C:\Users\ASUS\Source\Repos\programering1\Uppgifter02-02\bin\Debug\Uppgifter02-02.pdb
+C:\Users\ASUS\Source\Repos\programering1\Uppgifter02-02\obj\Debug\Uppgifter02-02.csprojAssemblyReference.cache
+C:\Users\ASUS\Source\Repos\programering1\Uppgifter02-02\obj\Debug\Uppgifter02_02.Form1.resources
+C:\Users\ASUS\Source\Repos\programering1\Uppgifter02-02\obj\Debug\Uppgifter02_02.Properties.Resources.resources
+C:\Users\ASUS\Source\Repos\programering1\Uppgifter02-02\obj\Debug\Uppgifter02-02.csproj.GenerateResource.cache
+C:\Users\ASUS\Source\Repos\programering1\Uppgifter02-02\obj\Debug\Uppgifter02-02.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\programering1\Uppgifter02-02\obj\Debug\Uppgifter02-02.exe
+C:\Users\ASUS\Source\Repos\programering1\Uppgifter02-02\obj\Debug\Uppgifter02-02.pdb

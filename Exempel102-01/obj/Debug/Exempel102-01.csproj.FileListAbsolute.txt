@@ -8,3 +8,13 @@ C:\Users\ASUS\source\repos\MinaProjekt\Exempel102-01\obj\Debug\Exempel102-01.csp
 C:\Users\ASUS\source\repos\MinaProjekt\Exempel102-01\obj\Debug\Exempel102-01.exe
 C:\Users\ASUS\source\repos\MinaProjekt\Exempel102-01\obj\Debug\Exempel102-01.pdb
 C:\Users\ASUS\source\repos\MinaProjekt\Exempel102-01\obj\Debug\Exempel102-01.csprojAssemblyReference.cache
+C:\Users\ASUS\Source\Repos\programering1\Exempel102-01\bin\Debug\Exempel102-01.exe.config
+C:\Users\ASUS\Source\Repos\programering1\Exempel102-01\bin\Debug\Exempel102-01.exe
+C:\Users\ASUS\Source\Repos\programering1\Exempel102-01\bin\Debug\Exempel102-01.pdb
+C:\Users\ASUS\Source\Repos\programering1\Exempel102-01\obj\Debug\Exempel102-01.csprojAssemblyReference.cache
+C:\Users\ASUS\Source\Repos\programering1\Exempel102-01\obj\Debug\Exempel102_01.Form1.resources
+C:\Users\ASUS\Source\Repos\programering1\Exempel102-01\obj\Debug\Exempel102_01.Properties.Resources.resources
+C:\Users\ASUS\Source\Repos\programering1\Exempel102-01\obj\Debug\Exempel102-01.csproj.GenerateResource.cache
+C:\Users\ASUS\Source\Repos\programering1\Exempel102-01\obj\Debug\Exempel102-01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\programering1\Exempel102-01\obj\Debug\Exempel102-01.exe
+C:\Users\ASUS\Source\Repos\programering1\Exempel102-01\obj\Debug\Exempel102-01.pdb

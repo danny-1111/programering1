@@ -21,5 +21,19 @@ namespace Exempel102_01
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            process1.EnableRaisingEvents = true;
+            process1.Exited += new EventHandler(process1_Exited);
+            process1.Start();
+            button1.Enabled = false;
+        }
+
+        private void process1_Exited(object sender, EventArgs e)
+        {
+            button1.Enabled = true;
+
+        }
     }
 }
